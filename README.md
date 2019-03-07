@@ -1,9 +1,8 @@
 # Netflix-Research
 
-286311 lines
+## Thriller vs Comedy Genres on Netflix
 
-
-##Thriller vs Comedy Genres on Netflix
+Excel size: 286311 lines
 
 Netflix is an online movie streaming service which includes two main popular genres: thriller and comedy movies. Although these genres differ greatly in content, it is important to acknowledge their popularity among Netflix members. How do these two genres differentiate from one another in terms of popularity according to their genre, date, and ratings?
 Chose five thriller and five comedy movies in order to accommodate for discrepancies between uncommon distributions, and thus insuring an average for each of the genres. These thriller movies include Scars of Dracula, Astro Zombies, Mark of the Devil, Behind Enemy Lines, and and Jeepers Creepers. As for the comedy movies, they include American Pie 2, Monty Python’s Flying Circus, The Office Series One, Zoolander, and Shrek. 
